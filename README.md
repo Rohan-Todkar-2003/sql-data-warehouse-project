@@ -102,7 +102,7 @@ data-warehouse-project/
 ```
 ---
 
-## ☕ Stay Connected
+##  Stay Connected
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
@@ -111,6 +111,6 @@ Let's stay in touch! Feel free to connect with me on the following platforms:
 
 ---
 
-## 🛡️ License
+## 🛡 License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
